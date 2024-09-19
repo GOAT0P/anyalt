@@ -45,8 +45,5 @@
         }
       ]
     }
-  ],
-  "static": {
-    "directoryListing": false
-  }
+  ]
 }
