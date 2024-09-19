@@ -46,10 +46,6 @@
       ]
     }
   ],
-  "compression": {
-    "brotli": true,
-    "gzip": true
-  },
   "static": {
     "directoryListing": false
   }
